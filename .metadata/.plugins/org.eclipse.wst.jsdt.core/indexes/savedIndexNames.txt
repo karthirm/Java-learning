@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/mcgpc/interview-prep/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2228276611.index
+1728276830.index
+2617327403.index
+2161195085.index
+688965112.index

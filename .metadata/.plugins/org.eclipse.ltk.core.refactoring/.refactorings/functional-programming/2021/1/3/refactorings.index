@@ -1,0 +1,2 @@
+1610292477355	Extract local variable 'evenPredicate'
+1610292569136	Extract method 'createEvenPredicate'
